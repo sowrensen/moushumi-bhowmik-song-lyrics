@@ -4,13 +4,13 @@ This repository is a collection of the lyrics of all songs performed by the amaz
 
 <summary>তুমিও চিল হও</summary>
 
-- [কিছু ফেলতে পারি না](তুমিও-চিল-হও/কিছু-ফেলতে-পারিনা.md)
-- [অন্য সময়](তুমিও-চিল-হও/অন্য-সময়.md)
-- [সংখ্যালঘু](তুমিও-চিল-হও/সংখ্যালঘু.md)
-- [ছেলেবেলা](তুমিও-চিল-হও/ছেলেবেলা.md)
-- [চিত্রকর](তুমিও-চিল-হও/চিত্রকর.md)
-- [অনন্যের খোঁজে](তুমিও-চিল-হও/অনন্যের-খোঁজে.md)
-- [এখানে সকাল নাম ধরে ডাকে](তুমিও-চিল-হও/এখানে-সকাল-নাম-ধরে-ডাকে.md)
-- [এক্কাগাড়ি](তুমিও-চিল-হও/এক্কাগাড়ি.md)
+- [কিছু ফেলতে পারি না](tumio-chil-hao/kichu-phelte-parina.md)
+- [অন্য সময়](tumio-chil-hao/anyo-somoy.md)
+- [সংখ্যালঘু](tumio-chil-hao/sonkhyaloghu.md)
+- [ছেলেবেলা](tumio-chil-hao/chelebela.md)
+- [চিত্রকর](tumio-chil-hao/chitrokor.md)
+- [অনন্যের খোঁজে](tumio-chil-hao/anonyer-khoje.md)
+- [এখানে সকাল নাম ধরে ডাকে](tumio-chil-hao/ekhane-sokal-naam-dhore-daake.md)
+- [এক্কাগাড়ি](tumio-chil-hao/ekkagari.md)
 
 </details>
