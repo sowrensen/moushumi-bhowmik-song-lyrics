@@ -49,3 +49,12 @@ This repository is a collection of the lyrics of all songs performed by the amaz
 - [পাখি উড়ে যায় কোথায়](ami-ghor-bahir-kori/pakhi-ure-jaay-kothay.md)
 
 </details>
+
+<details>
+
+<summary>অন্যান্য</summary>
+
+- [তারপর বৃষ্টি নামে](others/tarpor-brishty-namey.md)
+- [লক্ষ্মীপুজো](others/lakhsmipujo.md)
+
+</details>
