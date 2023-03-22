@@ -1,6 +1,6 @@
 ## চিঠি
 
-> যদিও কোনো নির্ভরযোগ্য সূত্র নেই, এই গানটি সম্ভবত [Leonard Cohen]() এর [Famous Blue Raincoat](https://en.wikipedia.org/wiki/Famous_Blue_Raincoat) থেকে অনুপ্রাণিত। দুটো গান এর সুরে, কথায়, এবং ভাবে যথেষ্ট সামঞ্জস্য লক্ষ্য করা যায়।
+> যদিও কোনো নির্ভরযোগ্য সূত্র নেই, এই গানটি সম্ভবত [Leonard Cohen](https://en.wikipedia.org/wiki/Leonard_Cohen) এর [Famous Blue Raincoat](https://en.wikipedia.org/wiki/Famous_Blue_Raincoat) থেকে অনুপ্রাণিত। দুটো গান এর সুরে, কথায়, এবং ভাবে যথেষ্ট সামঞ্জস্য লক্ষ্য করা যায়।
 
 এখন সকাল, এখানে সকাল মেঘলা সকাল<br>
 মাটি ভেজা ভেজা গন্ধ<br>
