@@ -1,4 +1,10 @@
-This repository is a collection of the lyrics of all songs performed by the amazing Moushumi Bhowmik. Being a awestruck fan of her singing and melodious voice, I admire and respect her so much. This is my small insignificant tribute to the amazing words of her songs. Enjoy! 🎵
+This repository is a collection of the lyrics of all songs performed by the amazing [Moushumi Bhowmik](https://en.wikipedia.org/wiki/Moushumi_Bhowmik). Being a awestruck fan of her singing and melodious voice, I admire and respect her so much. This is my small insignificant tribute to the amazing words of her songs. Enjoy! 🎵
+
+> Note 1: Not all lyrics are written by Bhowmik herself. I don't have the information of lyricists per song, if you happen to know any, please feel free to make a PR.
+
+> Note 2: If you notice any typo or missing word, let me know or better, please make a PR for correction mentioning the source of the correct lyrics.
+
+## এলবাম (Albums)
 
 <details>
 
