@@ -1,6 +1,6 @@
 ## যশোর রোড
 
-> অনুবাদ: খান মোহাম্মদ ফারাবী
+> এই গানটি মূলত [Allen Ginsberg](https://en.wikipedia.org/wiki/Allen_Ginsberg) রচিত [September on Jessore Road](https://en.wikipedia.org/wiki/September_on_Jessore_Road) কবিতা থেকে অনূদিত। অসাধারণ এই কবিতার মর্মস্পর্শী বঙ্গানুবাদ করেছেন [খান মোহাম্মদ ফারাবী*](https://tinyurl.com/zhzv8ph7)
 
 শত শত চোখ আকাশটা দেখে, শত শত শত মানুষের দল,<br>
 যশোর রোডের দু'ধারে বসত বাঁশের ছাউনি কাদামাটি জল।<br>
@@ -40,3 +40,8 @@
 এত মরা মুখ আধমরা পায়ে পূর্ব বাংলা কোলকাতা চলে।<br>
 
 **[← সূচিপত্র](../readme.md)**
+
+<br>
+
+#### সূত্র
+\* ফারাবীকে মনে পড়ে – https://tinyurl.com/58p73m8z
